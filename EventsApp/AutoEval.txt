@@ -1,0 +1,18 @@
+﻿Retour sur mon Projet de Gestion d'Événements
+
+Ce que j'ai fait :
+
+Les Bases : J'ai mis en place tout le système pour gérer les événements et les inscriptions. Ça, c'était le cœur du projet. Créer, modifier, annuler des événements, et gérer les participants.
+
+APIs et Pagination : Développer les APIs, c'était cool mais challengeant. La pagination, particulièrement, m'a fait voir l'importance d'optimiser les requêtes pour ne pas surcharger le serveur.
+
+Sécurité : Mettre en place l'authentification par token avec deux niveaux d'accès, c'était assez technique mais crucial pour la sécurité de l'app.
+
+Tests : J'ai écrit quelques tests unitaires. C'était rassurant de voir que je pouvais détecter et fixer des bugs avant de pousser mon code.
+
+Docs : J'ai généré une doc de l'API pour que tout soit clair pour ceux qui utiliseront mon code.
+
+
+Les Défis :
+
+Les Rôles et l'Authentification : Différencier les accès entre organisateurs et participants, c'était plus compliqué que je pensais.
